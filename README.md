@@ -10,7 +10,7 @@ I used built-in libraries in python, and with this I expressed my knowledge with
 
 
 
-![alt text](https://github.com/kaltake00/shooter/blob/main/shooter1.png)
+
 
 ![alt text](https://github.com/kaltake00/shooter/blob/main/shooter2.png)
 
