@@ -2,8 +2,11 @@
 Python shooter game
 
 
-My first shooter game in python. I have achieved a new skills in object oriented programming.
-We had a task to make a shooter game using some included libraries.
+My shooter game I made in python programming language.
+The task was to create a game in which we will place the user in one of the entered fields and the computer in the random fields.
+The game will take place by the user entering the shooting angle and if he hits he wins. If it misses the computer it shoots and so on until someone hits.
+
+I used built-in libraries in python, and with this I expressed my knowledge with object-oriented programming. 
 
 
 
